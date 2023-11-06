@@ -3,6 +3,10 @@
     "description":"By YcccByHe",
     "icons":[
         {
+            "name":"$tash",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/$tash.png"
+        },
+        {
             "name":"10000",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/10000.png"
         },
@@ -47,6 +51,10 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/Adblock.png"
         },
         {
+            "name":"adguard",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/adguard.png"
+        },
+        {
             "name":"AEX",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/AEX.png"
         },
@@ -67,6 +75,10 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/angelalign.png"
         },
         {
+            "name":"anthropic",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/anthropic.png"
+        },
+        {
             "name":"apktw",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/apktw.png"
         },
@@ -75,8 +87,84 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/Apple.png"
         },
         {
+            "name":"appleappstore",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/appleappstore.png"
+        },
+        {
+            "name":"applearcade",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/applearcade.png"
+        },
+        {
+            "name":"applebooks",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/applebooks.png"
+        },
+        {
+            "name":"appleclassic",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/appleclassic.png"
+        },
+        {
+            "name":"applefacetime",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/applefacetime.png"
+        },
+        {
+            "name":"applegamecenter",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/applegamecenter.png"
+        },
+        {
+            "name":"applehome",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/applehome.png"
+        },
+        {
+            "name":"appleicloud",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/appleicloud.png"
+        },
+        {
+            "name":"appleitunesstore",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/appleitunesstore.png"
+        },
+        {
+            "name":"applemail",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/applemail.png"
+        },
+        {
+            "name":"applemessages",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/applemessages.png"
+        },
+        {
+            "name":"applemusic",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/applemusic.png"
+        },
+        {
+            "name":"applenews",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/applenews.png"
+        },
+        {
+            "name":"appleoriginal",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/appleoriginal.png"
+        },
+        {
+            "name":"applesafari",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/applesafari.png"
+        },
+        {
+            "name":"applespringloaded",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/applespringloaded.png"
+        },
+        {
             "name":"AppleTV",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/AppleTV.png"
+        },
+        {
+            "name":"applewallet",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/applewallet.png"
+        },
+        {
+            "name":"appleweather",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/appleweather.png"
+        },
+        {
+            "name":"applewwdc23",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/applewwdc23.png"
         },
         {
             "name":"appstore",
@@ -91,6 +179,10 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/ASN.png"
         },
         {
+            "name":"atomlantiscloud",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/atomlantiscloud.png"
+        },
+        {
             "name":"AU",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/AU.png"
         },
@@ -101,6 +193,14 @@
         {
             "name":"Available",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/Available.png"
+        },
+        {
+            "name":"aws",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/aws.png"
+        },
+        {
+            "name":"azure",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/azure.png"
         },
         {
             "name":"Bahamut",
@@ -115,12 +215,28 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/bcz.png"
         },
         {
+            "name":"betahub",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/betahub.png"
+        },
+        {
+            "name":"bigben",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/bigben.png"
+        },
+        {
             "name":"Bili",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/Bili.png"
         },
         {
             "name":"bilibili",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/bilibili.png"
+        },
+        {
+            "name":"bilibilitv",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/bilibilitv.png"
+        },
+        {
+            "name":"bing",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/bing.png"
         },
         {
             "name":"birthday",
@@ -143,6 +259,14 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/Blink.png"
         },
         {
+            "name":"blinkload",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/blinkload.png"
+        },
+        {
+            "name":"blinkloadB",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/blinkloadB.png"
+        },
+        {
             "name":"Boom",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/Boom.png"
         },
@@ -153,6 +277,10 @@
         {
             "name":"box",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/box.png"
+        },
+        {
+            "name":"brandenburggate",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/brandenburggate.png"
         },
         {
             "name":"bubei",
@@ -175,6 +303,106 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/calendar.png"
         },
         {
+            "name":"categoryballoon",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/categoryballoon.png"
+        },
+        {
+            "name":"categorybike",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/categorybike.png"
+        },
+        {
+            "name":"categorybook",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/categorybook.png"
+        },
+        {
+            "name":"categorybriefcase",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/categorybriefcase.png"
+        },
+        {
+            "name":"categorycalculator",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/categorycalculator.png"
+        },
+        {
+            "name":"categorycatalog",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/categorycatalog.png"
+        },
+        {
+            "name":"categoryfood",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/categoryfood.png"
+        },
+        {
+            "name":"categoryglobe",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/categoryglobe.png"
+        },
+        {
+            "name":"categorylifestyle",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/categorylifestyle.png"
+        },
+        {
+            "name":"categorymagazine",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/categorymagazine.png"
+        },
+        {
+            "name":"categorymedical",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/categorymedical.png"
+        },
+        {
+            "name":"categorymusic",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/categorymusic.png"
+        },
+        {
+            "name":"categorynavigation",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/categorynavigation.png"
+        },
+        {
+            "name":"categorynetworking",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/categorynetworking.png"
+        },
+        {
+            "name":"categorynews",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/categorynews.png"
+        },
+        {
+            "name":"categoryphoto",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/categoryphoto.png"
+        },
+        {
+            "name":"categorypig",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/categorypig.png"
+        },
+        {
+            "name":"categorypolygon",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/categorypolygon.png"
+        },
+        {
+            "name":"categorypopcorn",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/categorypopcorn.png"
+        },
+        {
+            "name":"categoryproductivity",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/categoryproductivity.png"
+        },
+        {
+            "name":"categoryresearch",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/categoryresearch.png"
+        },
+        {
+            "name":"categoryshopping",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/categoryshopping.png"
+        },
+        {
+            "name":"categorysports",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/categorysports.png"
+        },
+        {
+            "name":"categorytravel",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/categorytravel.png"
+        },
+        {
+            "name":"categoryweather",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/categoryweather.png"
+        },
+        {
             "name":"Catnet",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/Catnet.png"
         },
@@ -183,8 +411,24 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/CCCat.png"
         },
         {
+            "name":"chiangkaishekmemorialhouse",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/chiangkaishekmemorialhouse.png"
+        },
+        {
             "name":"China",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/China.png"
+        },
+        {
+            "name":"christtheredeemer",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/christtheredeemer.png"
+        },
+        {
+            "name":"cisco",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/cisco.png"
+        },
+        {
+            "name":"cloudflare",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/cloudflare.png"
         },
         {
             "name":"Clubhouse",
@@ -207,8 +451,16 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/CNIX.png"
         },
         {
+            "name":"cntower",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/cntower.png"
+        },
+        {
             "name":"Coco",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/Coco.png"
+        },
+        {
+            "name":"colosseum",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/colosseum.png"
         },
         {
             "name":"Cord",
@@ -243,6 +495,26 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/DE.png"
         },
         {
+            "name":"degyax1",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/degyax1.png"
+        },
+        {
+            "name":"degyax2",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/degyax2.png"
+        },
+        {
+            "name":"degyax3",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/degyax3.png"
+        },
+        {
+            "name":"degyax4QvtamaX",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/degyax4QvtamaX.png"
+        },
+        {
+            "name":"degyaxminimal4QvtamaX",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/degyaxminimal4QvtamaX.png"
+        },
+        {
             "name":"Dianliang",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/Dianliang.png"
         },
@@ -271,6 +543,10 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/Dler.png"
         },
         {
+            "name":"dlercloud",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/dlercloud.png"
+        },
+        {
             "name":"DLK",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/DLK.png"
         },
@@ -281,6 +557,10 @@
         {
             "name":"dongqiudi",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/dongqiudi.png"
+        },
+        {
+            "name":"dots",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/dots.png"
         },
         {
             "name":"douyu",
@@ -297,6 +577,10 @@
         {
             "name":"duokan",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/duokan.png"
+        },
+        {
+            "name":"eiffeltower",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/eiffeltower.png"
         },
         {
             "name":"elem",
@@ -339,8 +623,16 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/Exflux.png"
         },
         {
+            "name":"fallback",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/fallback.png"
+        },
+        {
             "name":"fandeng",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/fandeng.png"
+        },
+        {
+            "name":"fastcloud",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/fastcloud.png"
         },
         {
             "name":"Fastfish",
@@ -371,6 +663,26 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/Final.png"
         },
         {
+            "name":"fishchips",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/fishchips.png"
+        },
+        {
+            "name":"fishchips0",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/fishchips0.png"
+        },
+        {
+            "name":"fishchips1",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/fishchips1.png"
+        },
+        {
+            "name":"fishchips2",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/fishchips2.png"
+        },
+        {
+            "name":"fishport",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/fishport.png"
+        },
+        {
             "name":"Flower",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/Flower.png"
         },
@@ -395,6 +707,10 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/FRANXX.png"
         },
         {
+            "name":"friestash",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/friestash.png"
+        },
+        {
             "name":"funboat",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/funboat.png"
         },
@@ -405,6 +721,10 @@
         {
             "name":"GAME",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/GAME.png"
+        },
+        {
+            "name":"gcp",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/gcp.png"
         },
         {
             "name":"gdoil",
@@ -435,8 +755,8 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/Godetia.png"
         },
         {
-            "name":"Google",
-            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/Google.png"
+            "name":"google",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/google.png"
         },
         {
             "name":"GoogleDrive",
@@ -445,6 +765,10 @@
         {
             "name":"Guguex",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/Guguex.png"
+        },
+        {
+            "name":"gyeongbokgungpalace",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/gyeongbokgungpalace.png"
         },
         {
             "name":"haidilao",
@@ -479,6 +803,10 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/HK.png"
         },
         {
+            "name":"hogwarts",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/hogwarts.png"
+        },
+        {
             "name":"hot",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/hot.png"
         },
@@ -487,8 +815,8 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/htt.png"
         },
         {
-            "name":"Hulu",
-            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/Hulu.png"
+            "name":"hulu",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/hulu.png"
         },
         {
             "name":"Hxlm",
@@ -503,6 +831,10 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/icbc.png"
         },
         {
+            "name":"iconset",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/iconset.json"
+        },
+        {
             "name":"idaily",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/idaily.png"
         },
@@ -511,12 +843,28 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/Imm.png"
         },
         {
+            "name":"infiniport",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/infiniport.png"
+        },
+        {
             "name":"Instagram",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/Instagram.png"
         },
         {
+            "name":"ipinfo",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/ipinfo.png"
+        },
+        {
             "name":"iQIYI",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/iQIYI.png"
+        },
+        {
+            "name":"iqzone",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/iqzone.png"
+        },
+        {
+            "name":"iringo",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/iringo.png"
         },
         {
             "name":"ithome",
@@ -587,8 +935,16 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/kuaishou.png"
         },
         {
+            "name":"leaningtowerofpisa",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/leaningtowerofpisa.png"
+        },
+        {
             "name":"LineTV",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/LineTV.png"
+        },
+        {
+            "name":"linkedin",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/linkedin.png"
         },
         {
             "name":"liwo",
@@ -603,12 +959,20 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/lkyl.png"
         },
         {
+            "name":"loadbalance",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/loadbalance.png"
+        },
+        {
             "name":"logo128",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/logo128.png"
         },
         {
             "name":"lol",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/lol.png"
+        },
+        {
+            "name":"londoneye",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/londoneye.png"
         },
         {
             "name":"loon",
@@ -621,6 +985,10 @@
         {
             "name":"lxsj",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/lxsj.png"
+        },
+        {
+            "name":"magicschool",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/magicschool.png"
         },
         {
             "name":"manga",
@@ -653,6 +1021,14 @@
         {
             "name":"meituan",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/meituan.png"
+        },
+        {
+            "name":"merlion",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/merlion.png"
+        },
+        {
+            "name":"meta",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/meta.png"
         },
         {
             "name":"MGNB",
@@ -727,6 +1103,10 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/nasa.png"
         },
         {
+            "name":"nationalmonument",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/nationalmonument.png"
+        },
+        {
             "name":"Netease",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/Netease.png"
         },
@@ -775,12 +1155,24 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/Nucleus.png"
         },
         {
+            "name":"obeliscodebuenosaires",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/obeliscodebuenosaires.png"
+        },
+        {
             "name":"Oclean",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/Oclean.png"
         },
         {
             "name":"openai",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/openai.png"
+        },
+        {
+            "name":"openit",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/openit.png"
+        },
+        {
+            "name":"oracle",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/oracle.png"
         },
         {
             "name":"Orz-3",
@@ -815,8 +1207,16 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/Personal.png"
         },
         {
+            "name":"petronastowers",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/petronastowers.png"
+        },
+        {
             "name":"Piao",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/Piao.png"
+        },
+        {
+            "name":"playstation",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/playstation.png"
         },
         {
             "name":"PLUS",
@@ -899,8 +1299,16 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/README.md"
         },
         {
+            "name":"relay",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/relay.png"
+        },
+        {
             "name":"Renzhe",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/Renzhe.png"
+        },
+        {
+            "name":"riotgames",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/riotgames.png"
         },
         {
             "name":"RIP",
@@ -923,6 +1331,14 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/RU.png"
         },
         {
+            "name":"ruinsofsaintpauls",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/ruinsofsaintpauls.png"
+        },
+        {
+            "name":"saintbasilscathedral",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/saintbasilscathedral.png"
+        },
+        {
             "name":"SaySS",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/SaySS.png"
         },
@@ -933,6 +1349,10 @@
         {
             "name":"sdc",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/sdc.png"
+        },
+        {
+            "name":"select",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/select.png"
         },
         {
             "name":"sfexpress",
@@ -965,6 +1385,10 @@
         {
             "name":"Skicat",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/Skicat.png"
+        },
+        {
+            "name":"skylines",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/skylines.png"
         },
         {
             "name":"smzdm",
@@ -1015,12 +1439,20 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/Static.png"
         },
         {
+            "name":"statueofliberty",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/statueofliberty.png"
+        },
+        {
             "name":"STC",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/STC.png"
         },
         {
             "name":"steam",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/steam.png"
+        },
+        {
+            "name":"stonehenge",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/stonehenge.png"
         },
         {
             "name":"Streaming",
@@ -1039,8 +1471,16 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/studygolang.png"
         },
         {
+            "name":"substore",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/substore.png"
+        },
+        {
             "name":"Suda",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/Suda.png"
+        },
+        {
+            "name":"sultanahmedmosque",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/sultanahmedmosque.png"
         },
         {
             "name":"Sun",
@@ -1059,6 +1499,22 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/SWCloud.png"
         },
         {
+            "name":"switch",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/switch.png"
+        },
+        {
+            "name":"sydneyoperahouse",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/sydneyoperahouse.png"
+        },
+        {
+            "name":"taipei101",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/taipei101.png"
+        },
+        {
+            "name":"tajmahal",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/tajmahal.png"
+        },
+        {
             "name":"Team",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/Team.png"
         },
@@ -1071,8 +1527,28 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/Telegram.png"
         },
         {
+            "name":"tencent",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/tencent.png"
+        },
+        {
+            "name":"tencentcloud",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/tencentcloud.png"
+        },
+        {
             "name":"testflight",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/testflight.png"
+        },
+        {
+            "name":"texon",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/texon.png"
+        },
+        {
+            "name":"texonhead",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/texonhead.png"
+        },
+        {
+            "name":"texonslab",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/texonslab.png"
         },
         {
             "name":"tgpic",
@@ -1083,8 +1559,24 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/TH.png"
         },
         {
+            "name":"thefederalassembly",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/thefederalassembly.png"
+        },
+        {
+            "name":"thegreatwall",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/thegreatwall.png"
+        },
+        {
+            "name":"thewhitehouse",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/thewhitehouse.png"
+        },
+        {
             "name":"thg",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/thg.png"
+        },
+        {
+            "name":"threads",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/threads.png"
         },
         {
             "name":"Thunder",
@@ -1103,8 +1595,16 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/time.png"
         },
         {
+            "name":"tinder",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/tinder.png"
+        },
+        {
             "name":"tongc",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/tongc.png"
+        },
+        {
+            "name":"torii",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/torii.png"
         },
         {
             "name":"Touhou",
@@ -1133,6 +1633,10 @@
         {
             "name":"TW",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/TW.png"
+        },
+        {
+            "name":"twitch",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/twitch.png"
         },
         {
             "name":"Twitter",
@@ -1207,8 +1711,20 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/wanda.png"
         },
         {
+            "name":"warp",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/warp.png"
+        },
+        {
+            "name":"warpcomet",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/warpcomet.png"
+        },
+        {
             "name":"weather",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/weather.png"
+        },
+        {
+            "name":"wechat",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/wechat.png"
         },
         {
             "name":"weibo",
@@ -1219,8 +1735,16 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/WestData.png"
         },
         {
+            "name":"whatsinstash",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/whatsinstash.png"
+        },
+        {
             "name":"WIFI",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/WIFI.png"
+        },
+        {
+            "name":"wireguard",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/wireguard.png"
         },
         {
             "name":"wmmeituan",
@@ -1243,8 +1767,16 @@
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/wykl.png"
         },
         {
+            "name":"x",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/x.png"
+        },
+        {
             "name":"Xair",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/Xair.png"
+        },
+        {
+            "name":"xbox",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/xbox.png"
         },
         {
             "name":"XD",
@@ -1309,6 +1841,10 @@
         {
             "name":"zaker",
             "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/zaker.png"
+        },
+        {
+            "name":"zhihu",
+            "url":"https://raw.githubusercontent.com/YcccByHe/mini/master/Color/zhihu.png"
         },
         {
             "name":"Zhs",
